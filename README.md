@@ -9,7 +9,7 @@ Software: Python 3.8.5, Jupyter Notebook
 
 ## Results
 ### How are the school and district summaries affected?
-The school and district summaries are mostly unchanged with the replacement of the ninth grade scores. The percentages for Thomas High School changed but replacing the ninth-graders’ math and reading scores did not cause Thomas High School to move up in ranking. How does replacing the ninth-grade scores affect the following:
+The school and district summaries are mostly unchanged with the replacement of the ninth grade scores. The percentages for Thomas High School changed but replacing the ninth-graders’ math and reading scores did not cause Thomas High School to move up in ranking. 
 
 
 ### How does replacing the ninth-grade scores affect the following:
